@@ -1,5 +1,4 @@
-# MultipleLinearRegression
-## Multiple Logistic Regression for Customer Behavior Prediction
+# Multiple Linear Regression ## for Customer Behavior Prediction
 
 This Python code analysis delves into the usage of predictive analytics, specifically applying multiple logistic regression for customer behavior prediction in terms of bandwidth usage. The primary objective is to employ proactive strategies to predict churn usage, thereby optimizing the customer experience. 
 
